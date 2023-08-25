@@ -10,3 +10,14 @@ student_name = "Collins"
 student_age = 23
 student_items  = ['bag', 'laptop', 'stickers', 'marker']
 ``` 
+
+
+### My life
+- [x] Born.
+- [x] Kindergarten.
+- [x] Primary Education.
+- [x] Secondary Education.
+- [x] University.
+- [ ] Job / Entrepreneurship.
+- [ ] Freedom.
+- [ ] Unfortunately, Death.
